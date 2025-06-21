@@ -82,6 +82,8 @@ This Excel dashboard provides end-to-end visibility into:
 2. Ensure macros and Data Model are enabled
 3. Use slicers to interact with the data dynamically
 
-# Contributing
+# References
+WS Cube (Youtube)
 
+# Contributing
 Feel free to fork this project and enhance it with new features, visuals, or connectors. Pull requests are welcome.
